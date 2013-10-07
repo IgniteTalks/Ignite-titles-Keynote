@@ -1,7 +1,7 @@
 Ignite-titles-Keynote
 =====================
 
-An Apple Keynote file which you can use as 'opening credits' for your Ignite session.
+An Apple Keynote file which you can use as 'opening credits' for your Ignite session - see an example at https://vimeo.com/76304898
 
 Install the fonts if required, then edit the names.
 
