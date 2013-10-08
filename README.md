@@ -7,4 +7,4 @@ Install the fonts if required, then edit the names.
 
 Make a recording of the Keynote presentation (eg using Quicktime) then add music in a video editor.
 
-This was based on an idea by Jason Dooley (jasonbyhand.com)
+This was based on an idea by Jason Dooley (http://jasonbyhand.com)
